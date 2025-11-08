@@ -36,5 +36,5 @@ This project implements a **PointNet** model for 3D shape classification from po
 ## Author
 - Edoardo Lovato  
 - Université Claude Bernard Lyon 1 
-- Master DISS Fundamentals Of Image Processing And Interpretation 
+- Master DISS _ Fundamentals Of Image Processing And Interpretation 
 - Academic Year 2025–2026
